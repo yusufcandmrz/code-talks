@@ -1,6 +1,6 @@
 # Code Talks
 
-Soru:
+## Görev
 
 Kod sohbetlerinin döndüğü güzel bir uygulamamız yok mu?
 
@@ -12,7 +12,7 @@ Tasarımı istediğiniz gibi geliştirebilirsiniz.
 
 Güzel sohbetler şimdiden :)
 
-Ekran Görüntüleri:
+## Ekran Görüntüleri
 
 ![Screenshot_1688315950](https://github.com/yusufcandmrz/code-talks/assets/93606208/375deb65-0321-4f43-896e-cbf0d7944893)
 ![Screenshot_1688315955](https://github.com/yusufcandmrz/code-talks/assets/93606208/563c1103-9586-4ce5-a5c9-5a2bb289ef0f)
